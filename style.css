@@ -20,6 +20,9 @@ img.tit{
 .titulo{
 	padding-top: 40%;
 }
+.lalo{
+	padding-left: 20%;
+}
 @media (max-width:700px){
 	img.wid{
 		width: 100%;
