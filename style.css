@@ -33,8 +33,11 @@ img.tit{
 	}
 	img.map{
 	width:100%;
-	top:30%;
+	top:25%;
     align-items: center;
     justify-content: center;
+	}
+	.lalo{
+		top: 25%;
 	}
 }
