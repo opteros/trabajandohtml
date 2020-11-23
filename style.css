@@ -30,4 +30,9 @@ img.tit{
 	img.tit{
 		width: 200%;
 	}
+	img.map{
+	width:100%;
+    align-items: center;
+    justify-content: center;
+	}
 }
